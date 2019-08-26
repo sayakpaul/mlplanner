@@ -1,3 +1,5 @@
+[![Run on FloydHub](https://static.floydhub.com/button/button-small.svg)](https://floydhub.com/run)
+
 Contains data, notebooks and other files of [FloydHub](https://www.floydhub.com)'s mini-series on machine learning project structuring, model debugging, various tips and tricks and more. 
 
 **Link to the articles** (ordered):
