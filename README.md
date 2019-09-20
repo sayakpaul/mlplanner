@@ -5,4 +5,4 @@ Contains data, notebooks and other files of [FloydHub](https://www.floydhub.com)
 **Links to the articles** (ordered):
 - [How to plan and execute your ML and DL projects](https://blog.floydhub.com/structuring-and-planning-your-machine-learning-project/)
 - [Becoming One With the Data](https://blog.floydhub.com/becoming-one-with-the-data/)
-- [Training Neural Nets: a Hacker’s Perspective](Training Neural Nets: a Hacker’s Perspective)
+- [Training Neural Nets: a Hacker’s Perspective](https://blog.floydhub.com/training-neural-nets-a-hackers-perspective)
