@@ -1,2 +1,2 @@
-env: pytorch-1.0
+env: tensorflow-1.13
 machine: cpu
